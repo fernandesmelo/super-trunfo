@@ -4,13 +4,27 @@ Um jogo de cartas chamado [Super Trunfo](https://fernandesmelo.github.io/tabela-
 
 [screen-capture.webm](https://github.com/fernandesmelo/super-trunfo/assets/113717317/f8a3544f-d75f-4ddd-85f5-17301cadd901)
 
+O projeto "Super Trunfo" é um jogo de cartas simples onde o jogador compete contra a máquina escolhendo um atributo para cada carta. As principais funcionalidades são:
+
+✅ *Sorteio de Cartas*: Ao clicar no botão "Sortear Carta", o jogo seleciona aleatoriamente uma carta para o jogador e outra para a máquina.
+
+✅ *Escolha de Atributo*: Após o sorteio das cartas, o jogador pode escolher um atributo da sua carta para competir com a máquina. Os atributos disponíveis são: ataque, defesa e magia.
+
+✅ *Comparação de Atributos*: Ao clicar no botão "Jogar", o jogo compara o atributo escolhido pelo jogador com o mesmo atributo da carta da máquina. O jogador vence se o valor do atributo for maior, e a máquina vence se o valor for menor.
+
+✅ *Anúncio de Resultado*: O jogo exibe o resultado da partida, informando se o jogador venceu, perdeu ou empatou com a máquina.
+
+✅ *Visualização das Cartas*: As cartas do jogador e da máquina são exibidas visualmente na tela, com seus respectivos atributos e imagens.
+
+Essas funcionalidades permitem ao jogador interagir com o jogo, fazer escolhas estratégicas e competir contra a máquina em uma dinâmica de jogo simples e divertida.
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
 
 ### 📋 Pré-requisitos
 
-Você precisa ter instalado um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos no seu sistema operacional.
+Você precisa ter instalado no seu sistema operacional um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos.
 
 ### 🔧 Instalação
 
