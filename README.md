@@ -1,6 +1,6 @@
 # Super Trunfo
 
-Um jogo de cartas chamado [Super Trunfo](https://fernandesmelo.github.io/tabela-de-classificacao/) onde você escolhe um atributo e compete com a máquina. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
+Um jogo de cartas chamado [Super Trunfo](https://fernandesmelo.github.io/super-trunfo/) onde você escolhe um atributo e compete com a máquina. O mesmo desenvolvi através da Imersão Dev da Alura que é uma semana de aulas intensas de Devs para Devs, onde criamos projetos do zero, com suporte de comunidade, lives e discussões aprofundadas de tecnologia.
 
 [screen-capture.webm](https://github.com/fernandesmelo/super-trunfo/assets/113717317/f8a3544f-d75f-4ddd-85f5-17301cadd901)
 
