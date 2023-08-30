@@ -40,7 +40,7 @@ A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta
 
 ## ⚙️ Executando os Testes
 
-Não há testes automatizados neste projeto.
+Próximos passos...
 
 ## 🛠️ Construído com
 
