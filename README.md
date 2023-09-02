@@ -33,7 +33,7 @@ Você precisa ter instalado no seu sistema operacional um navegador web para vis
 3. Clique em "Arquivo" (ou "File") no canto superior esquerdo da janela.
 4. Selecione "Abrir Pasta" (ou "Open Folder").
 5. Após selecionar a pasta, ela será aberta no VSCode.
-6. Você verá a estrutura de pastas e arquivos do seu projeto no painel lateral esquerdo.
+6. Você verá a estrutura de pastas e arquivos do projeto no painel lateral esquerdo.
 7. Abra o arquivo index.html em um navegador web.
 
 A partir daqui, você pode explorar, editar e trabalhar com os arquivos da pasta aberta diretamente no VSCode.
