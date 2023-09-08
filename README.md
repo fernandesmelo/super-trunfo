@@ -68,4 +68,4 @@ Próximos passos...
 
 ## 🎁 Expressões de Gratidão
 
-Agradeço a [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/) que apresentou a Imersão Dev e aos instrutores [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/) e [Rafaella Ballerine](https://www.linkedin.com/in/rafaellaballerini/) por nos guiar nos projetos 🫂;
+Agradeço a [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/) que apresentou a Imersão Dev e aos instrutores [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-developer/) e [Rafaella Ballerine](https://www.linkedin.com/in/rafaellaballerini/) por nos guiar nos projetos 🫂.
