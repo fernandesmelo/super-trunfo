@@ -50,8 +50,7 @@ Próximos passos...
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br/>
 
-## 🔨 Decisões de Tecnologia
-
+## 🔨 Tomada de Decisões
 * **HTML:** Utilizado para criar a estrutura da página, incluindo as cartas e botões.
 * **CSS:** Utilizado para estilizar as cartas e botões, tornando o jogo visualmente atraente.
 * **JavaScript:** Utilizado para criar a funcionalidade do jogo, sortear cartas, escolher atributos e determinar o vencedor.
