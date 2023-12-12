@@ -24,7 +24,9 @@ Essas instruções permitirão que você tenha uma cópia do projeto em execuç�
 
 ### 📋 Pré-requisitos
 
-Você precisa ter instalado no seu sistema operacional um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos.
+Antes de começar, certifique-se de ter instalado em seu sistema operacional:
+* [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
+* [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
 
 ### 🔧 Instalação
 
